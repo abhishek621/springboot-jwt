@@ -22,7 +22,7 @@ This project demonstrates a simple JWT (JSON Web Token) authentication mechanism
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/jwt-authentication-spring-boot.git
+git clone https://github.com/abhishek621/springboot-jwt.git
 cd jwt-authentication-spring-boot
 
 ### 2. Build the Application
