@@ -35,11 +35,17 @@ mvn clean install
 Ensure you have the following properties set in your src/main/resources/application.properties file:
 
 spring.h2.console.enabled=true
+
 spring.h2.console.name=testdb
+
 spring.datasource.url=jdbc:h2:mem:testdb
+
 spring.datasource.username=sa
+
 spring.datasource.password=
+
 spring.jpa.show-sql=true
+
 spring.jpa.hibernate.ddl-auto=update
 
 ### 4. Run the Application
