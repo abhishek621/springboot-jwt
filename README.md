@@ -24,7 +24,7 @@ Clone the repository to your local machine:
 
 git clone https://github.com/abhishek621/springboot-jwt.git
 
-cd jwt-authentication-spring-boot
+cd springboot-jwt
 
 ### 2. Build the Application
 
